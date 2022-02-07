@@ -1,0 +1,39 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Jugo de Zanahoria",
+      "precio": "343"
+    },
+    {
+      "id": 2,
+      "nombre": "Jugo de Naranja",
+      "precio": "100"
+    },
+    {
+      "nombre": "Rib Eye 800g",
+      "precio": "200",
+      "id": 4
+    },
+    {
+      "nombre": "Jugo de Fresa",
+      "precio": "200",
+      "id": 5
+    },
+    {
+      "nombre": "Piña Colada",
+      "precio": 250,
+      "id": 8
+    },
+    {
+      "nombre": "Vodka",
+      "precio": 250,
+      "id": 9
+    },
+    {
+      "nombre": "Mi producto",
+      "precio": "999888",
+      "id": 10
+    }
+  ]
+}
